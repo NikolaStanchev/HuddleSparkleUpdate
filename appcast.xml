@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Relaunch</title>
+        <item>
+            <title>0.9.2</title>
+            <pubDate>Wed, 11 Nov 2026 19:42:48 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/NikolaStanchev/HuddleSparkleUpdate/releases/download/prod_0.9.2/Huddle_0.9.2.dmg" length="1610483" type="application/octet-stream" sparkle:edSignature="+JSJU+UdboqWF0+G4Q/yPgzrHgbVbwKN4CxhTcDo929zvLwW9IGYEwgVyr64zi6y1TLTTsybcn/LBy/H0vbyBw=="/>
+        </item>
+    </channel>
+</rss>
