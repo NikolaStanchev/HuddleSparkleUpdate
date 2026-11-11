@@ -8,7 +8,8 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/NikolaStanchev/HuddleSparkleUpdate/releases/download/prod/Huddle_0.9.dmg" length="1609663" type="application/octet-stream" sparkle:edSignature="NEp5pzMJ1z9T2AqYAej09onHq0dPNwnYW0fNisFscMGB//aVOSoncVN1yhxNU+zla2emRXDekrhVwM/dlxsKBA=="/>
+            <enclosure url="https://github.com/NikolaStanchev/HuddleSparkleUpdate/releases/download/prod/Huddle_0.9.dmg" length="1609663" type="application/octet-stream" sparkle:edSignature="kh0PNJC5sJxuA0DNDR9zDt3hJ3oautteATWgwwQ1+Ko="/>
         </item>
     </channel>
 </rss>
+<!-- NEp5pzMJ1z9T2AqYAej09onHq0dPNwnYW0fNisFscMGB//aVOSoncVN1yhxNU+zla2emRXDekrhVwM/dlxsKBA== -->
